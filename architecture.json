@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-mythopoeic-power-corruption",
+  "title": "The Guano King's Anchor",
+  "tagline": "In the Gilded Age, a titan of industry discovers his empire is built on a foundation of cursed fertilizer that grants wealth and hunger in equal measure.",
+  "target_words": 70000,
+  "actual_words": 72275,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Ritual of Capital",
+    "The Haunting of Extraction",
+    "Domestic Corrosion",
+    "Mythic Foundations of Empire"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Daily Weight",
+      "words": 3000
+    },
+    {
+      "ch": 2,
+      "title": "The Captain's Tale",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Boardroom and the Dream",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Arabella's Silhouette",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Pier 17 at Midnight",
+      "words": 3500
+    },
+    {
+      "ch": 6,
+      "title": "The Shifting Cargo",
+      "words": 3400
+    },
+    {
+      "ch": 7,
+      "title": "The Fifth Avenue Seance",
+      "words": 2800
+    },
+    {
+      "ch": 8,
+      "title": "Ledgers of Dust",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The Hungry Mountain",
+      "words": 3600
+    },
+    {
+      "ch": 10,
+      "title": "A Pact in the Hold",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "The First Refusal",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "Rats and Ruin",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Dividend of Screams",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "Bella's Rebellion",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "The Smothering Profit",
+      "words": 3400
+    },
+    {
+      "ch": 16,
+      "title": "A New, Unholy Manifest",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Anchor Slips",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "Feeding the Foundations",
+      "words": 3700
+    },
+    {
+      "ch": 19,
+      "title": "The Circle Tightens",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Final Accounting",
+      "words": 3500
+    },
+    {
+      "ch": 21,
+      "title": "Dust in the Vault",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Unmooring",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "What the Gold No Longer Weighs",
+      "words": 2800
+    },
+    {
+      "ch": 24,
+      "title": "The New Ritual",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Captain Coombs, detailing the cursed voyage of the *Nereid* from loading to mutiny.",
+      "Compose a series of society page entries or private diary excerpts from Arabella Van der Poole, charting her disillusionment.",
+      "Create a 'field report' from a naturalist or anthropologist studying the mythic properties of the Chincha Islands guano deposits.",
+      "Write a monologue from the 'consciousness' of the guano itself, a collective memory of death, time, and colonial hunger."
+    ],
+    "technical": [
+      "Build an interactive map tracing Van der Poole's shipping routes, with clickable ports revealing commodity data and eerie crew logs.",
+      "Design a 'Gilded Age Ledger Simulator' where players must balance financial profits against a rising 'Mythos Corruption' meter affecting decision-making."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nathaniel Hawthorne",
+      "Upton Sinclair",
+      "H.P. Lovecraft",
+      "Edith Wharton"
+    ]
+  },
+  "cover_prompt": "A gilded industrial magnate in a velvet dressing gown kneels, not in prayer, but in frantic, desperate communion before a massive, ornate porcelain bathtub overflowing not with water, but with a shimmering, iridescent mound of guano, from which spectral, grasping roots of light emerge and coil around his arms, set within the opulent, decaying grandeur of a Gilded Age mansion library where gold leaf peels from the walls to reveal damp, phosphorescent mold beneath, in the atmospheric style of a dark romanticism painter like Ivan Albright combined with the symbolic weight of Albert Pinkham Ryder, book cover framing, centered and intimate composition viewed from a low, dramatic angle as if the viewer is also kneeling on the cold marble floor, illuminated by the sickly, phosphorescent glow of the cursed fertilizer contrasting with the warm, dying embers of a fireplace and the cold moonlight from a stained-glass window, creating a palette of tarnished gold, deep burgundy, spectral aquamarine, and bone white, masterpiece, best quality, ultra detailed, intricate details of peeling gilt, fabric texture, and ethereal light, professional composition, sharp focus, 8k resolution, flux dev."
+}
