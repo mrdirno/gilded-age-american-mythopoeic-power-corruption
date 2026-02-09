@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The first thing Cornelius did every morning was weigh his gold.
+Cornelius found the god in a railroad bond, its margins annotated with figures that gleamed like altar gold. The numbers breathed. They promised a new mountain range, not of rock, but of capital, and he felt the old American hunger—not for land, but for the right to name it.
+
+
 
 He did not rise from his four-poster bed of carved mahogany, nor did he ring for his valet to draw the bath. He did not even open his eyes. His right hand slid from beneath the Irish linen sheets, fingers finding the familiar, cold, and satisfyingly heavy cylinder on the nightstand. His thumb found the latch. The lid sprang open with a sigh of oiled brass.
 
