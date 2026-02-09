@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The first thing Cornelius did every morning was weigh his gold.
@@ -83,6 +85,8 @@ He closed the book, locked it away. It was a catalogue of whispers, nothing more
 He left his office for the board meeting, his mind already on tonnage and tariffs. But as he passed the long, gilt-framed mirror in the hallway, he caught his own reflection: a man in a perfect suit, his face a mask of reasoned command. And for a fleeting instant, so brief he later convinced himself he imagined it, he saw not his own grey eyes looking back, but a glimpse of something else—a flash of avaricious yellow, like the gleam of a coin in a dark hold.
 
 He blinked. It was gone. A trick of the light, the residue of Coombs’s feverish story. He straightened his cuffs, the heavy gold links cold against his wrists, and walked on. The numbers were waiting. They, at least, never dreamed.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -204,6 +208,8 @@ Cornelius walked to the sideboard and poured two fingers of whiskey. He didn’t
 Arabella finally looked at him, her shale-colored eyes searching his face. She saw the man she married, the pillar of certainty. But for a flicker, she saw something else—a faint, feverish gloss, a distant focus, as if he were listening to a tune she couldn’t hear.
 
 She said nothing. She simply returned to her embroidery, stitching a perfect, silent flower onto the flawless linen. The distance between them, in the opulent, quiet room, was no longer measured in feet, but in the cold, granular depth of a mystery only one of them was beginning to fathom.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
